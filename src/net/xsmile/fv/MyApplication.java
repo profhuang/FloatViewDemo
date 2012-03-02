@@ -5,7 +5,7 @@ import android.view.WindowManager;
 
 public class MyApplication extends Application {
 	
-	//aa88345
+	//aa883455688u
 	private WindowManager.LayoutParams wmParams=new WindowManager.LayoutParams();
 
 	public WindowManager.LayoutParams getMywmParams(){
